@@ -1,0 +1,24 @@
+h1{
+    font-family: 'Indie Flower', cursive;
+    background-color: magenta;
+}
+
+p{
+    font-family: 'Indie Flower', cursive;
+    font-size:20px;
+     background-color: violet;
+}
+
+ul{
+font-family: 'Josefin Sans', sans-serif;
+ font-size:20px;
+  background-color: cyan;}
+  
+h2{font-family: 'Josefin Sans', sans-serif;
+ background-color: magenta;}
+ 
+ 
+h3{font-family: 'Josefin Sans', sans-serif;
+ background-color: magenta;}
+
+body{background-color:purple;}
